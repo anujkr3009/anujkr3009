@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anujkumar3009" target="blank"><img src="https://img.shields.io/twitter/follow/anujkumar3009?logo=twitter&style=for-the-badge" alt="anujkumar3009" /></a> </p>
 
-- 📫 How to reach me **anujkumar70581@gmail.com**
+- 📫 For Invites **anujkumar70581@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
