@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE !!</h1>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujkr3009" alt="anujkr3009" /></a> </p>
 
